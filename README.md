@@ -1,2 +1,4 @@
-# IanWebOS-Chromiun
-Um sistema operacional baseado no BrowOS, ATENÇÃO: Não há tradução
+Atualização: 1.0.1
+Apenas inglês
+
+Sério que vc leu isso :3
